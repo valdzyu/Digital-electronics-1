@@ -7,7 +7,7 @@ my *italics* and **bold** emphasis
 * 1st unordered list item
   * 2nd unordered list item
  
-[My link to vutbr website](https://www.google.com)
+[My link to vutbr website](https://www.vutbr.cz)
 
 My table
 Header 1 | Header 2
