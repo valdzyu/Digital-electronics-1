@@ -14,7 +14,7 @@ Header 1 | Header 2
 -----| -----
 cell 1 | cell 2
 cell 3 | cell 4
-```vdhl
+```vhdl
 ntity gates is
     port(
         a_i    : in  std_logic;         -- Data input
