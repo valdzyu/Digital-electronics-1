@@ -22,7 +22,7 @@
 ## 2. A 2-bit Comparator
 ### Karnaugh maps
 ![maps](images/maps.jpg)
-[Link to my EDA Playground](https://www.edaplayground.com/x/EAvJ)
+#### [Link to my EDA Playground](https://www.edaplayground.com/x/EAvJ)
 ## 3. A 4-bit binary Comparator
 ```vhdl
 architecture Behavioral of comparator_2bit is
@@ -123,4 +123,5 @@ p_stimulus : process
 ```
 ### Error
 ![error](images/error.png)
-[Link to my EDA Playground](https://www.edaplayground.com/x/inBk)
+
+#### [Link to my EDA Playground](https://www.edaplayground.com/x/inBk)
