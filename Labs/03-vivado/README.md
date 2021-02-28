@@ -98,7 +98,9 @@ end process p_stimulus;
 
 ## Vivado tutorial
 
+
 __Create project (File -> Project -> New)__
+
 ![step1](images/1.png)
 
 __Insert project name and choose location__
