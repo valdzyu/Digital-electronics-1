@@ -1,4 +1,4 @@
-### [github](https://github.com/valzdyu/Digital-electronics-1/tree/main/Labs/04-segment)
+### [github](https://github.com/valdzyu/Digital-electronics-1/tree/main/Labs/04-segment)
 
 # Lab 04
 
