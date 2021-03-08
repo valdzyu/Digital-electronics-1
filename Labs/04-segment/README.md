@@ -1,6 +1,6 @@
 ### [github](https://github.com/valzdyu/Digital-electronics-1/tree/main/Labs/04-segment)
 
-# Lab 03
+# Lab 04
 
 ## Preparation Tasks
 
