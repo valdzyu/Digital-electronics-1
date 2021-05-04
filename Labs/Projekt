@@ -1,0 +1,1 @@
+[Link to project](https://github.com/Dominik220888/Digital-electronics-1/tree/main/Labs/project)
